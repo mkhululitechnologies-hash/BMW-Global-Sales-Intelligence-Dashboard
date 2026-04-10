@@ -19,4 +19,4 @@ This project analyzes BMW's global sales performance across different fuel types
 * **What-If Logic:** A 5% price shift in high-volume regions (Europe/NA) projects a revenue lift of ~$4.1B.
 
 ## 📸 Preview
-![Dashboard Preview](Dashboard.jpg)
+![Dashboard Preview](see dashboard.png)
